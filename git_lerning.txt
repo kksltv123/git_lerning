@@ -51,6 +51,8 @@ clone - 원격 repo 를 내 컴퓨터에 가져오기
 2 복제할 repo 의 url 복사해오기
 3 sourcetree 로 사용해서 clone 하기
 
+브랜치 이름은 main 원격 이름은 origin으로 바꿔주기!!
+
 
 
 
